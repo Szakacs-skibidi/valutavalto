@@ -6,8 +6,8 @@ namespace ConsoleApp4
     {
         public class ValutaÁtváltó
         {
-            private const double HufToDollarRate = 354; 
-            private const double HufToEurRate = 403;    
+            private const double HufToDollarRate = 300.0; 
+            private const double HufToEurRate = 360.0;    
 
             public static double HufToDollar(double huf)
             {
